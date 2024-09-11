@@ -4,6 +4,13 @@
 ### _[Verse 1]_
 ![download](https://github.com/user-attachments/assets/9a2cb7b0-fb97-4b31-85bb-8d5a2d189b3c)
 
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
 He used to call me DN <br>
 That stood for Deadly Nightshade <br>
 'Cause I was filled with poison <br>
